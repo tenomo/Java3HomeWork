@@ -5,6 +5,8 @@ package com.company;
  */
 public class Task_4 {
 
+
+    // коментарий не даю,  хз что оно такое.......
     void  PascalsTriangle (int depth)
     {
         int tmp_Cnk;

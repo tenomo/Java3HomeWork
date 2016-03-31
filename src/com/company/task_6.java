@@ -11,7 +11,10 @@ import java.util.Arrays;
  */
 public class task_6 {
 
+
     private String str = "!@qwer9876543tyu#$%^#$%^fgdfgf&*()&kjhg*()_-87gvdfdfhtyujtgq3t5u68i54jwq56452654+=987654";
+
+    
 
     ArrayList letters= new ArrayList();
     ArrayList numbers= new ArrayList();
