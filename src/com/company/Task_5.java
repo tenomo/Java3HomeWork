@@ -37,7 +37,7 @@ public class Task_5
         twoArray = new int[input_Array_Lenght/2];
 
         for (int i = 0; i < input_Array_Lenght/2 ; i++)
-        { 
+        {
             firstArray[i] = inputArray[i];
             twoArray[i] = inputArray[input_Array_Lenght/2+i];
         }

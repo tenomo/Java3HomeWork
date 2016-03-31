@@ -25,10 +25,14 @@ public class Main {
 //        System.out.println(task_3.Polindrom(array_negative_test));
 
 
- Task_5 task_5 = new Task_5();
+// Task_5 task_5 = new Task_5();
+//
+//        task_5.ReadArrayFromConsole();
+//        task_5.BreakAnArray();
+//        task_5.PrintAllArray();
 
-        task_5.ReadArrayFromConsole();
-        task_5.BreakAnArray();
-        task_5.PrintAllArray();
+        task_6 task6 = new task_6();
+        task6.ParceStringAndPrint();
+
     }
 }
