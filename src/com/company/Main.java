@@ -25,9 +25,10 @@ public class Main {
 //        System.out.println(task_3.Polindrom(array_negative_test));
 
 
- Task_4 task_4 = new Task_4();
+ Task_5 task_5 = new Task_5();
 
-        task_4.PascalsTriangle(7);
-
+        task_5.ReadArrayFromConsole();
+        task_5.BreakAnArray();
+        task_5.PrintAllArray();
     }
 }
