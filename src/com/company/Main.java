@@ -18,7 +18,16 @@ public class Main {
 //        Testarray_2 = task_2.InversionArray(Testarray_2);
 //        System.out.println("Множество чисел: " + Arrays.toString(Testarray_2));
 
+//        Task_3 task_3 = new Task_3();
+//        int [] array_positive_test = {0,1, 2, 3, 5, 5, 2, 1,0};
+//        System.out.println(task_3.Polindrom(array_positive_test));
+//        int [] array_negative_test = {0,1, 3, 3, 5, 2, 2, 1,0};
+//        System.out.println(task_3.Polindrom(array_negative_test));
 
+
+ Task_4 task_4 = new Task_4();
+
+        task_4.PascalsTriangle(7);
 
     }
 }

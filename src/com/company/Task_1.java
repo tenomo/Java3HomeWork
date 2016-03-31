@@ -8,8 +8,8 @@ import java.util.Arrays;
 
 public class Task_1 {
 
-    // Функция GetAverage возвращающая значения типа float
-    // Параметр функции int[] (множество целочисленіх чисел)
+    // Функция для нахождение среднего арифметического GetAverage возвращающая значения типа float
+    // Параметр функции int[] (множество целочисленых чисел)
     public float GetAverage(int[] array) {
         float sumOfElemets = 0;
         for (int item : array) {
@@ -40,7 +40,7 @@ public class Task_1 {
 
             }
         }
-        // Выводим в консольнаши нехитрые вычисления.
+        // Выводим в консоль наши нехитрые вычисления.
         System.out.println("Множество чисел: " + Arrays.toString(array));
         System.out.println("Среднее арфеметическое множества: " + average);
         System.out.println("Элемент множества c id: " + id + " значение которого близкое\n" +

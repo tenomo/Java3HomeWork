@@ -5,7 +5,7 @@ package com.company;
  */
 public class Task_2
 {
-
+    // функция принимает множество, и делает его инверсию.
     double [] InversionArray (double [] array)
     {
         double buff;                             // временная переменная
